@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg948" inkscape:version="0.92.3 (2405546, 2018-03-11)" sodipodi:docname="Question3treemap.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 558.2 254.8"
+	 style="enable-background:new 0 0 558.2 254.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#08306B;}
+	.st1{clip-path:url(#SVGID_4_);fill:#1864AA;}
+	.st2{clip-path:url(#SVGID_6_);fill:#1864AA;}
+	.st3{clip-path:url(#SVGID_8_);fill:#4B97C9;}
+	.st4{clip-path:url(#SVGID_10_);fill:#4B97C9;}
+	.st5{clip-path:url(#SVGID_12_);fill:#4B97C9;}
+	.st6{clip-path:url(#SVGID_14_);fill:#4B97C9;}
+	.st7{clip-path:url(#SVGID_16_);fill:#4B97C9;}
+	.st8{clip-path:url(#SVGID_18_);fill:#93C3DF;}
+	.st9{clip-path:url(#SVGID_20_);fill:#93C3DF;}
+	.st10{clip-path:url(#SVGID_22_);fill:#93C3DF;}
+	.st11{clip-path:url(#SVGID_24_);fill:#93C3DF;}
+	.st12{clip-path:url(#SVGID_26_);fill:#CFE1F2;}
+	.st13{clip-path:url(#SVGID_28_);fill:#CFE1F2;}
+	.st14{clip-path:url(#SVGID_30_);fill:#CFE1F2;}
+	.st15{clip-path:url(#SVGID_32_);fill:#F7FBFF;}
+	.st16{fill:#F41111;}
+	.st17{font-family:'ArialMT';}
+	.st18{font-size:25px;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" id="base" inkscape:current-layer="layer1" inkscape:cx="-628.03617" inkscape:cy="23.260558" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1147" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="-8" inkscape:window-y="-8" inkscape:zoom="0.49497475" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-35.573627,-75.898742)" inkscape:groupmode="layer" inkscape:label="Layer 1">
+	<g id="g3102" transform="matrix(0.26458333,0,0,0.26458333,31.415891,70.607075)">
+		<g id="g3042">
+			<g>
+				<defs>
+					<path id="SVGID_1_" d="M-496.5,844.9h472V20h-472V844.9 M80.3,844.9h943.9V20H80.3V844.9 M1129.1,844.9h943.9V20h-943.9V844.9
+						 M2177.9,844.9h472V20h-472V844.9"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="streamfakeRoottreemap" inkscape:connector-curvature="0" class="st0" d="M552.3,20H27.9v824.9h524.4h524.4h524.4
+					h524.4V20h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_3_" d="M-496.5,844.9H-77V20h-419.5V844.9 M132.7,844.9h839.1V20H132.7V844.9 M1181.6,844.9h839.1V20h-839.1
+						V844.9 M2230.4,844.9h419.5V20h-419.5V844.9"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream2treemap" inkscape:connector-curvature="0" class="st1" d="M552.3,569.9H27.9v257.8h524.4h524.4h524.4h524.4
+					V569.9h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_5_" d="M-496.5,844.9H-77V20h-419.5V844.9 M132.7,844.9h839.1V20H132.7V844.9 M1181.6,844.9h839.1V20h-839.1
+						V844.9 M2230.4,844.9h419.5V20h-419.5V844.9"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream20treemap" inkscape:connector-curvature="0" class="st2" d="M552.3,37.2H27.9v515.6h524.4h524.4h524.4h524.4
+					V37.2h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_7_" d="M-496.5,844.9h367.1V20h-367.1V844.9 M185.2,844.9h734.2V20H185.2V844.9 M1234,844.9h734.2V20H1234
+						V844.9 M2282.8,844.9h367.1V20h-367.1V844.9"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream16treemap" inkscape:connector-curvature="0" class="st3" d="M552.3,655.8H27.9v154.7h524.4h524.4h524.4h524.4
+					V655.8h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_9_" d="M-496.5,844.9h367.1V20h-367.1V844.9 M185.2,844.9h734.2V20H185.2V844.9 M1234,844.9h734.2V20H1234
+						V844.9 M2282.8,844.9h367.1V20h-367.1V844.9"/>
+				</defs>
+				<clipPath id="SVGID_10_">
+					<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream12treemap" inkscape:connector-curvature="0" class="st4" d="M552.3,587.1H27.9v51.6h524.4h524.4h524.4h524.4
+					v-51.6h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_11_" d="M-496.5,844.9h367.1V20h-367.1V844.9 M185.2,844.9h734.2V20H185.2V844.9 M1234,844.9h734.2V20H1234
+						V844.9 M2282.8,844.9h367.1V20h-367.1V844.9"/>
+				</defs>
+				<clipPath id="SVGID_12_">
+					<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream8treemap" inkscape:connector-curvature="0" class="st5" d="M552.3,488.3H27.9v51.6h524.4h524.4h524.4h524.4
+					v-51.6h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_13_" d="M-496.5,844.9h367.1V20h-367.1V844.9 M185.2,844.9h734.2V20H185.2V844.9 M1234,844.9h734.2V20H1234
+						V844.9 M2282.8,844.9h367.1V20h-367.1V844.9"/>
+				</defs>
+				<clipPath id="SVGID_14_">
+					<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream22treemap" inkscape:connector-curvature="0" class="st6" d="M552.3,217.6H27.9v257.8h524.4h524.4h524.4h524.4
+					V217.6h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_15_" d="M-496.5,844.9h367.1V20h-367.1V844.9 M185.2,844.9h734.2V20H185.2V844.9 M1234,844.9h734.2V20H1234
+						V844.9 M2282.8,844.9h367.1V20h-367.1V844.9"/>
+				</defs>
+				<clipPath id="SVGID_16_">
+					<use xlink:href="#SVGID_15_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream24treemap" inkscape:connector-curvature="0" class="st7" d="M552.3,50.1H27.9v154.7h524.4h524.4h524.4h524.4
+					V50.1h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_17_" d="M-496.5,844.9h314.6V20h-314.6V844.9 M237.6,844.9h629.3V20H237.6V844.9 M1286.4,844.9h629.3V20h-629.3
+						V844.9 M2335.3,844.9h314.6V20h-314.6V844.9"/>
+				</defs>
+				<clipPath id="SVGID_18_">
+					<use xlink:href="#SVGID_17_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream14treemap" inkscape:connector-curvature="0" class="st8" d="M552.3,681.6H27.9v103.1h524.4h524.4h524.4h524.4
+					V681.6h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_19_" d="M-496.5,844.9h314.6V20h-314.6V844.9 M237.6,844.9h629.3V20H237.6V844.9 M1286.4,844.9h629.3V20h-629.3
+						V844.9 M2335.3,844.9h314.6V20h-314.6V844.9"/>
+				</defs>
+				<clipPath id="SVGID_20_">
+					<use xlink:href="#SVGID_19_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream4treemap" inkscape:connector-curvature="0" class="st9" d="M552.3,243.4H27.9v206.2h524.4h524.4h524.4h524.4
+					V243.4h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_21_" d="M-496.5,844.9h314.6V20h-314.6V844.9 M237.6,844.9h629.3V20H237.6V844.9 M1286.4,844.9h629.3V20h-629.3
+						V844.9 M2335.3,844.9h314.6V20h-314.6V844.9"/>
+				</defs>
+				<clipPath id="SVGID_22_">
+					<use xlink:href="#SVGID_21_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream18treemap" inkscape:connector-curvature="0" class="st10" d="M552.3,136H27.9v51.6h524.4h524.4h524.4h524.4V136
+					h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_23_" d="M-496.5,844.9h314.6V20h-314.6V844.9 M237.6,844.9h629.3V20H237.6V844.9 M1286.4,844.9h629.3V20h-629.3
+						V844.9 M2335.3,844.9h314.6V20h-314.6V844.9"/>
+				</defs>
+				<clipPath id="SVGID_24_">
+					<use xlink:href="#SVGID_23_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream0treemap" inkscape:connector-curvature="0" class="st11" d="M552.3,67.3H27.9v51.6h524.4h524.4h524.4h524.4
+					V67.3h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_25_" d="M-496.5,844.9h262.2V20h-262.2V844.9 M290.1,844.9h524.4V20H290.1V844.9 M1338.9,844.9h524.4V20h-524.4
+						V844.9 M2387.7,844.9h262.2V20h-262.2V844.9"/>
+				</defs>
+				<clipPath id="SVGID_26_">
+					<use xlink:href="#SVGID_25_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream28treemap" inkscape:connector-curvature="0" class="st12" d="M552.3,707.4H27.9V759h524.4h524.4h524.4h524.4
+					v-51.6h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_27_" d="M-496.5,844.9h262.2V20h-262.2V844.9 M290.1,844.9h524.4V20H290.1V844.9 M1338.9,844.9h524.4V20h-524.4
+						V844.9 M2387.7,844.9h262.2V20h-262.2V844.9"/>
+				</defs>
+				<clipPath id="SVGID_28_">
+					<use xlink:href="#SVGID_27_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream26treemap" inkscape:connector-curvature="0" class="st13" d="M552.3,380.9H27.9v51.6h524.4h524.4h524.4h524.4
+					v-51.6h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_29_" d="M-496.5,844.9h262.2V20h-262.2V844.9 M290.1,844.9h524.4V20H290.1V844.9 M1338.9,844.9h524.4V20h-524.4
+						V844.9 M2387.7,844.9h262.2V20h-262.2V844.9"/>
+				</defs>
+				<clipPath id="SVGID_30_">
+					<use xlink:href="#SVGID_29_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream10treemap" inkscape:connector-curvature="0" class="st14" d="M552.3,260.6H27.9v103.1h524.4h524.4h524.4h524.4
+					V260.6h-524.4h-524.4H552.3"/>
+			</g>
+			<g>
+				<defs>
+					<path id="SVGID_31_" d="M-496.5,844.9h209.8V20h-209.8V844.9 M342.5,844.9H762V20H342.5V844.9 M1391.3,844.9h419.5V20h-419.5
+						V844.9 M2440.1,844.9h209.8V20h-209.8V844.9"/>
+				</defs>
+				<clipPath id="SVGID_32_">
+					<use xlink:href="#SVGID_31_"  style="overflow:visible;"/>
+				</clipPath>
+				<path id="stream6treemap" inkscape:connector-curvature="0" class="st15" d="M552.3,286.4H27.9v51.6h524.4h524.4h524.4h524.4
+					v-51.6h-524.4h-524.4H552.3"/>
+			</g>
+		</g>
+		<g id="g3044">
+		</g>
+	</g>
+	<rect id="rect2005" x="35.6" y="199.8" class="st16" width="45.3" height="13.7"/>
+</g>
+<text transform="matrix(1 0 0 1 90.0679 242.2132)" class="st17 st18">January</text>
+<text transform="matrix(1 0 0 1 383.3387 242.2131)" class="st17 st18">February</text>
+</svg>

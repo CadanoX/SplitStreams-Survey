@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 777 332.7" style="enable-background:new 0 0 777 332.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#08306B;}
+	.st1{clip-path:url(#SVGID_4_);fill:#2271B4;}
+	.st2{clip-path:url(#SVGID_6_);fill:#2271B4;}
+	.st3{clip-path:url(#SVGID_8_);fill:#6DAED5;}
+	.st4{clip-path:url(#SVGID_10_);fill:#C3DBEE;}
+	.st5{clip-path:url(#SVGID_12_);fill:#F7FBFF;}
+	.st6{font-family:'ArialMT';}
+	.st7{font-size:25px;}
+</style>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M-231.9,294H14.8V20h-246.7V294 M14.8,294h246.7V20H14.8V294 M261.5,294h246.7V20H261.5V294 M508.2,294
+				h246.7V20H508.2V294 M754.8,294h246.7V20H754.8V294"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="streamfakeRootsecstream" shape-rendering="geometricPrecision" class="st0" d="M14.8,20v274c123.3,0,123.3,0,246.7,0
+			s123.3,0,246.7,0s123.3,0,246.7,0V20c-123.3,0-123.3,0-246.7,0s-123.3,0-246.7,0S138.1,20,14.8,20"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_3_" d="M-231.9,294H7.4V20h-239.3V294 M22.2,294h231.9V20H22.2V294 M268.9,294h231.9V20H268.9V294 M515.6,294
+				h231.9V20H515.6V294 M762.2,294h239.3V20H762.2V294"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream8secstream" shape-rendering="geometricPrecision" class="st1" d="M14.8,141.8v137c123.3,0,123.3,0,246.7,0
+			s123.3,0,246.7,0s123.3,0,246.7,0V96.1c-123.3,0-123.3,0-246.7,0s-123.3,0-246.7,0S138.1,141.8,14.8,141.8"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_5_" d="M-231.9,294H7.4V20h-239.3V294 M22.2,294h231.9V20H22.2V294 M268.9,294h231.9V20H268.9V294 M515.6,294
+				h231.9V20H515.6V294 M762.2,294h239.3V20H762.2V294"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream12secstream" shape-rendering="geometricPrecision" class="st2" d="M14.8,35.2v91.3c123.3,0,123.3-45.7,246.7-45.7
+			s123.3,0,246.7,0s123.3,0,246.7,0V35.2c-123.3,0-123.3,0-246.7,0s-123.3,0-246.7,0S138.1,35.2,14.8,35.2"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_7_" d="M-231.9,294H0V20h-231.9V294 M29.6,294h217.1V20H29.6V294 M276.3,294h217.1V20H276.3V294 M523,294H740V20
+				H523V294 M769.6,294h231.9V20H769.6V294"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream16secstream" shape-rendering="geometricPrecision" class="st3" d="M14.8,157v45.7c123.3,0,123.3-45.7,246.7-45.7
+			s123.3,98.9,246.7,98.9s123.3,0,246.7,0v-137c-123.3,0-123.3,0-246.7,0s-123.3-7.6-246.7-7.6S138.1,157,14.8,157"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_9_" d="M-231.9,294H0V20h-231.9V294 M29.6,294h217.1V20H29.6V294 M276.3,294H486V20H276.3V294 M530.4,294h202.3
+				V20H530.4V294 M777,294h224.5V20H777V294"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream4secstream" shape-rendering="geometricPrecision" class="st4" d="M14.8,217.9v45.7c123.3,0,123.3,0,246.7,0
+			s123.3-83.7,246.7-83.7s123.3,53.3,246.7,53.3v-91.3c-123.3,0-123.3-7.6-246.7-7.6s-123.3,38.1-246.7,38.1S138.1,217.9,14.8,217.9
+			"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_11_" d="M-231.9,294H0V20h-231.9V294 M29.6,294h209.7V20H29.6V294 M283.7,294H486V20H283.7V294 M530.4,294h194.9
+				V20H530.4V294 M784.4,294h217.1V20H784.4V294"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream0secstream" shape-rendering="geometricPrecision" class="st5" d="M14.8,58.1v45.7c123.3,0,123.3,137,246.7,137
+			s123.3,0,246.7,0s123.3-30.4,246.7-30.4v-45.7c-123.3,0-123.3,30.4-246.7,30.4s-123.3,0-246.7,0S138.1,58.1,14.8,58.1"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 43.2 320.3718)" class="st6 st7">January-February</text>
+<text transform="matrix(1 0 0 1 306.0669 320.3718)" class="st6 st7">February-March</text>
+<text transform="matrix(1 0 0 1 577.4001 320.3715)" class="st6 st7">March-April</text>
+</svg>

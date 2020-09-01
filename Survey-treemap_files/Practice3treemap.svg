@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 836 348" style="enable-background:new 0 0 836 348;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#08306B;}
+	.st1{clip-path:url(#SVGID_4_);fill:#6DAED5;}
+	.st2{clip-path:url(#SVGID_6_);fill:#6DAED5;}
+	.st3{clip-path:url(#SVGID_8_);fill:#F7FBFF;}
+	.st4{clip-path:url(#SVGID_10_);fill:#F7FBFF;}
+	.st5{clip-path:url(#SVGID_12_);fill:#F7FBFF;}
+	.st6{font-family:'ArialMT';}
+	.st7{font-size:25px;}
+</style>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M-59.6,281H12V20h-71.6V281 M28,281h143.3V20H28V281 M187.2,281h143.3V20H187.2V281 M346.4,281h143.3V20
+				H346.4V281 M505.6,281h143.3V20H505.6V281 M664.8,281H808V20H664.8V281 M824,281h71.6V20H824V281"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="streamfakeRoottreemap" shape-rendering="geometricPrecision" class="st0" d="M99.6,20H20v261h79.6h79.6h79.6h79.6H418
+			h79.6h79.6h79.6v-52.2h79.6H816V72.2h-79.6h-79.6V20h-79.6h-79.6H418h-79.6h-79.6h-79.6H99.6"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_3_" d="M-59.6,281H4.1V20h-63.7V281 M35.9,281h127.4V20H35.9V281 M195.1,281h127.4V20H195.1V281 M354.3,281h127.4
+				V20H354.3V281 M513.5,281h127.4V20H513.5V281 M672.7,281h127.4V20H672.7V281 M831.9,281h63.7V20h-63.7V281"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream10treemap" shape-rendering="geometricPrecision" class="st1" d="M99.6,159.2H20v104.4h79.6h79.6h79.6h79.6H418
+			h79.6h79.6h79.6v-52.2h79.6H816v-52.2h-79.6h-79.6v52.2h-79.6h-79.6H418h-79.6h-79.6h-79.6v-52.2H99.6"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_5_" d="M-59.6,281H4.1V20h-63.7V281 M35.9,281h127.4V20H35.9V281 M195.1,281h127.4V20H195.1V281 M354.3,281h127.4
+				V20H354.3V281 M513.5,281h127.4V20H513.5V281 M672.7,281h127.4V20H672.7V281 M831.9,281h63.7V20h-63.7V281"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream15treemap" shape-rendering="geometricPrecision" class="st2" d="M99.6,37.4H20v104.4h79.6h79.6V194h79.6h79.6H418
+			h79.6h79.6h79.6v-52.2h79.6H816V89.6h-79.6h-79.6V37.4h-79.6h-79.6H418h-79.6h-79.6h-79.6l0,0H99.6"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_7_" d="M-59.6,281h55.7V20h-55.7V281 M43.9,281h111.4V20H43.9V281 M203.1,281h55.7V20h-55.7V281"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream5treemap" shape-rendering="geometricPrecision" class="st3" d="M99.6,185.3H20v52.2h79.6h79.6v-52.2H99.6"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_9_" d="M-59.6,281h55.7V20h-55.7V281 M43.9,281h111.4V20H43.9V281 M203.1,281h111.4V20H203.1V281 M362.3,281
+				h111.4V20H362.3V281 M521.5,281h111.4V20H521.5V281 M680.7,281h55.7V20h-55.7V281"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream20treemap" shape-rendering="geometricPrecision" class="st4" d="M99.6,63.5H20v52.2h79.6h79.6v60.9h79.6h79.6H418
+			h79.6h79.6h79.6v-52.2h-79.6h-79.6H418h-79.6h-79.6h-79.6V63.5H99.6"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_11_" d="M-59.6,281h214.9V20H-59.6V281 M203.1,281h111.4V20H203.1V281 M362.3,281h111.4V20H362.3V281 M521.5,281
+				h111.4V20H521.5V281 M680.7,281h55.7V20h-55.7V281"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream26treemap" shape-rendering="geometricPrecision" class="st5" d="M258.8,54.8h-79.6V107h79.6h79.6H418h79.6h79.6
+			h79.6V54.8h-79.6h-79.6H418h-79.6H258.8"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 52.86 326.3669)" class="st6 st7">January</text>
+<text transform="matrix(1 0 0 1 208.5193 326.3669)" class="st6 st7">February</text>
+<text transform="matrix(1 0 0 1 387.1788 326.3671)" class="st6 st7">March</text>
+<text transform="matrix(1 0 0 1 556.934 326.3671)" class="st6 st7">April</text>
+<text transform="matrix(1 0 0 1 719.1539 326.3672)" class="st6 st7">May</text>
+</svg>

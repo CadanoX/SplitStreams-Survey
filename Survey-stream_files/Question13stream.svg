@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 589.2 337" style="enable-background:new 0 0 589.2 337;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#08306B;}
+	.st1{clip-path:url(#SVGID_4_);fill:#2271B4;}
+	.st2{clip-path:url(#SVGID_6_);fill:#2271B4;}
+	.st3{clip-path:url(#SVGID_8_);fill:#6DAED5;}
+	.st4{clip-path:url(#SVGID_10_);fill:#6DAED5;}
+	.st5{clip-path:url(#SVGID_12_);fill:#C3DBEE;}
+	.st6{clip-path:url(#SVGID_14_);fill:#F7FBFF;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:25px;}
+</style>
+<g>
+	<g>
+		<defs>
+			<polyline id="SVGID_1_" points="-538.3,294 1126.7,294 1126.7,20 -538.3,20 -538.3,294 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="streamfakeRootstream" shape-rendering="geometricPrecision" class="st0" d="M16.6,20v274c277.5,0,277.5-38.9,555-38.9
+			V58.9C294.1,58.9,294.1,20,16.6,20"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_3_" points="-538.3,294 1126.7,294 1126.7,20 -538.3,20 -538.3,294 			"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream4stream" shape-rendering="geometricPrecision" class="st1" d="M16.6,235v40c277.5,0,277.5-38.9,555-38.9v-91.7
+			C294.1,144.4,294.1,235,16.6,235"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_5_" points="-538.3,294 1126.7,294 1126.7,20 -538.3,20 -538.3,294 			"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream10stream" shape-rendering="geometricPrecision" class="st2" d="M16.6,39v177c277.5,0,277.5-90.6,555-90.6V77.9
+			C294.1,77.9,294.1,39,16.6,39"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_7_" points="-538.3,294 1126.7,294 1126.7,20 -538.3,20 -538.3,294 			"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream8stream" shape-rendering="geometricPrecision" class="st3" d="M16.6,236.3v37.5c277.5,0,277.5-55.8,555-55.8
+			v-55.4C294.1,162.6,294.1,236.3,16.6,236.3"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_9_" points="-538.3,294 1126.7,294 1126.7,20 -538.3,20 -538.3,294 			"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream0stream" shape-rendering="geometricPrecision" class="st4" d="M16.6,58.9v137.2c277.5,0,277.5-74.4,555-74.4v-40
+			C294.1,81.6,294.1,58.9,16.6,58.9"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_11_" points="-538.3,294 1126.7,294 1126.7,20 -538.3,20 -538.3,294 			"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream6stream" shape-rendering="geometricPrecision" class="st5" d="M16.6,83.9v87.1c277.5,0,277.5-51.4,555-51.4v-36
+			C294.1,83.7,294.1,83.9,16.6,83.9"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_13_" points="-538.3,294 1126.7,294 1126.7,20 -538.3,20 -538.3,294 			"/>
+		</defs>
+		<clipPath id="SVGID_14_">
+			<use xlink:href="#SVGID_13_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream2stream" shape-rendering="geometricPrecision" class="st6" d="M16.6,109.8v35.4c277.5,0,277.5-29,555-29V87.1
+			C294.1,87.1,294.1,109.8,16.6,109.8"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 28.556 322.2139)" class="st7 st8">January</text>
+<text transform="matrix(1 0 0 1 460.3269 322.2134)" class="st7 st8">February</text>
+</svg>

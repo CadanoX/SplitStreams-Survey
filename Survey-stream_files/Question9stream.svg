@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 786 343" style="enable-background:new 0 0 786 343;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#08306B;}
+	.st1{clip-path:url(#SVGID_4_);fill:#2271B4;}
+	.st2{clip-path:url(#SVGID_6_);fill:#2271B4;}
+	.st3{clip-path:url(#SVGID_8_);fill:#6DAED5;}
+	.st4{clip-path:url(#SVGID_10_);fill:#C3DBEE;}
+	.st5{clip-path:url(#SVGID_12_);fill:#F7FBFF;}
+	.st6{font-family:'ArialMT';}
+	.st7{font-size:25px;}
+</style>
+<g transform="translate(-36.60336195540276,-5.6709137864040144) scale(1.022428530609928)">
+	<g>
+		<defs>
+			<polyline id="SVGID_1_" points="-187.9,294 1018.4,294 1018.4,20 -187.9,20 -187.9,294 			"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="streamfakeRootstream" shape-rendering="geometricPrecision" class="st0" d="M53.3,20v274c120.6,0,120.6,0,241.3,0
+			s120.6,0,241.3,0s120.6,0,241.3,0V20c-120.6,0-120.6,0-241.3,0s-120.6,0-241.3,0S174,20,53.3,20"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_3_" points="-187.9,294 1018.4,294 1018.4,20 -187.9,20 -187.9,294 			"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream8stream" shape-rendering="geometricPrecision" class="st1" d="M53.3,141.8v137c120.6,0,120.6,0,241.3,0
+			s120.6,0,241.3,0s120.6,0,241.3,0V96.1c-120.6,0-120.6,0-241.3,0s-120.6,0-241.3,0S174,141.8,53.3,141.8"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_5_" points="-187.9,294 1018.4,294 1018.4,20 -187.9,20 -187.9,294 			"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream12stream" shape-rendering="geometricPrecision" class="st2" d="M53.3,35.2v91.3c120.6,0,120.6-45.7,241.3-45.7
+			s120.6,0,241.3,0s120.6,0,241.3,0V35.2c-120.6,0-120.6,0-241.3,0s-120.6,0-241.3,0S174,35.2,53.3,35.2"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_7_" points="-187.9,294 1018.4,294 1018.4,20 -187.9,20 -187.9,294 			"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream16stream" shape-rendering="geometricPrecision" class="st3" d="M53.3,157v45.7C174,202.7,174,157,294.6,157
+			s120.6,98.9,241.3,98.9s120.6,0,241.3,0v-137c-120.6,0-120.6,0-241.3,0s-120.6-7.6-241.3-7.6S174,157,53.3,157"/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_9_" points="-187.9,294 1018.4,294 1018.4,20 -187.9,20 -187.9,294 			"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream4stream" shape-rendering="geometricPrecision" class="st4" d="M53.3,217.9v45.7c120.6,0,120.6,0,241.3,0
+			s120.6-83.7,241.3-83.7s120.6,53.3,241.3,53.3v-91.3c-120.6,0-120.6-7.6-241.3-7.6s-120.6,38.1-241.3,38.1S174,217.9,53.3,217.9"
+			/>
+	</g>
+	<g>
+		<defs>
+			<polyline id="SVGID_11_" points="-187.9,294 1018.4,294 1018.4,20 -187.9,20 -187.9,294 			"/>
+		</defs>
+		<clipPath id="SVGID_12_">
+			<use xlink:href="#SVGID_11_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream0stream" shape-rendering="geometricPrecision" class="st5" d="M53.3,58.1v45.7c120.6,0,120.6,137,241.3,137
+			s120.6,0,241.3,0s120.6-30.4,241.3-30.4v-45.7c-120.6,0-120.6,30.4-241.3,30.4s-120.6,0-241.3,0S174,58.1,53.3,58.1"/>
+	</g>
+</g>
+<g transform="translate(-36.60336195540276,-5.6709137864040144) scale(1.022428530609928)">
+</g>
+<text transform="matrix(1 0 0 1 19.7231 325.7051)" class="st6 st7">January</text>
+<text transform="matrix(1 0 0 1 224.7231 325.7051)" class="st6 st7">February</text>
+<text transform="matrix(1 0 0 1 465.7234 325.7051)" class="st6 st7">March</text>
+<text transform="matrix(1 0 0 1 707.4998 325.7051)" class="st6 st7">April</text>
+</svg>

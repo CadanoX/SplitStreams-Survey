@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 624 394" style="enable-background:new 0 0 624 394;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);fill:#08306B;}
+	.st1{clip-path:url(#SVGID_4_);fill:#6DAED5;}
+	.st2{clip-path:url(#SVGID_6_);fill:#6DAED5;}
+	.st3{clip-path:url(#SVGID_8_);fill:#F7FBFF;}
+	.st4{clip-path:url(#SVGID_10_);fill:#F7FBFF;}
+	.st5{font-family:'ArialMT';}
+	.st6{font-size:40px;}
+</style>
+<g>
+	<g>
+		<defs>
+			<path id="SVGID_1_" d="M-564,327H20V20h-584V327 M20,327h584V20H20V327 M604,327h584V20H604V327"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="streamfakeRootsecstream" shape-rendering="geometricPrecision" class="st0" d="M20,20v307c292,0,292,0,584,0V20
+			C312,20,312,20,20,20"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_3_" d="M-564,327H2.5V20H-564V327 M37.5,327h549V20h-549V327 M621.5,327H1188V20H621.5V327"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream0secstream" shape-rendering="geometricPrecision" class="st1" d="M20,245.1v61.4c292,0,292,0,584,0v-61.4
+			C312,245.1,312,245.1,20,245.1"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_5_" d="M-564,327H2.5V20H-564V327 M37.5,327h549V20h-549V327 M621.5,327H1188V20H621.5V327"/>
+		</defs>
+		<clipPath id="SVGID_6_">
+			<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream2secstream" shape-rendering="geometricPrecision" class="st2" d="M20,40.5v184.2c292,0,292,0,584,0V40.5
+			C312,40.5,312,40.5,20,40.5"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_7_" d="M-564,327h549V20h-549V327 M55,327H569V20H55V327 M639,327h549V20H639V327"/>
+		</defs>
+		<clipPath id="SVGID_8_">
+			<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream4secstream" shape-rendering="geometricPrecision" class="st3" d="M20,142.8v61.4c292,0,292,0,584,0v-61.4
+			C312,142.8,312,142.8,20,142.8"/>
+	</g>
+	<g>
+		<defs>
+			<path id="SVGID_9_" d="M-564,327h549V20h-549V327 M55,327H569V20H55V327 M639,327h549V20H639V327"/>
+		</defs>
+		<clipPath id="SVGID_10_">
+			<use xlink:href="#SVGID_9_"  style="overflow:visible;"/>
+		</clipPath>
+		<path id="stream6secstream" shape-rendering="geometricPrecision" class="st4" d="M20,60.9v61.4c292,0,292,0,584,0V60.9
+			C312,60.9,312,60.9,20,60.9"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 42.52 368.2139)" class="st5 st6">January</text>
+<text transform="matrix(1 0 0 1 429.04 368.2139)" class="st5 st6">February</text>
+</svg>
